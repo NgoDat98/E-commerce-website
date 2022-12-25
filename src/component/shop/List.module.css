@@ -1,0 +1,36 @@
+.list {
+  width: 25%;
+}
+
+.list h1 {
+  font-weight: 450;
+}
+
+.list h2 {
+  font-weight: 450;
+  background-color: black;
+  color: white;
+}
+
+.list h3 {
+  font-weight: 450;
+  background-color: rgba(128, 128, 128, 0.085);
+}
+
+.list h5 {
+  font-weight: 400;
+  color: gray;
+}
+
+.abc i {
+  font-weight: 500;
+  color: rgb(231, 190, 67);
+}
+
+.list h5:visited {
+  color: rgb(231, 190, 67);
+}
+
+.list h5:hover {
+  color: rgb(231, 190, 67);
+}

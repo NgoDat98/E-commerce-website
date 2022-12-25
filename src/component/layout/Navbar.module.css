@@ -1,0 +1,35 @@
+.navbar {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+}
+
+.navbar button {
+  margin: 8px;
+  border: none;
+  background-color: white;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: large;
+}
+
+.navbar button:hover {
+  color: rgb(231, 190, 67);
+}
+
+.abc {
+  color: rgb(231, 190, 67);
+}
+
+.navbar select {
+  margin-left: 5px;
+}
+
+.navbar h1 {
+  font-weight: 400;
+}

@@ -1,0 +1,122 @@
+.livechat {
+  max-width: 25%;
+  position: fixed;
+  top: 200px;
+  left: 75%;
+  background-color: rgb(255, 254, 254);
+  overflow: hidden;
+  border-radius: 20px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: rgba(128, 128, 128, 0.373);
+  box-shadow: 1px 1px 20px 0px;
+}
+
+.livechat1 {
+  width: 95%;
+  display: flex;
+  align-items: center;
+  padding-left: 5%;
+  background-color: rgba(128, 128, 128, 0.077);
+}
+
+.livechat1 input {
+  width: 50%;
+  height: 25px;
+  border: none;
+  border-color: aliceblue;
+}
+
+.livechat1 p {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.livechat1 button {
+  margin-left: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.livechat1 button:hover {
+  font-size: 150%;
+  background-color: aliceblue;
+  color: aqua;
+}
+
+.livechat1 img {
+  width: 6%;
+  border-radius: 10px;
+  margin: 0;
+}
+
+.livechattitle {
+  width: 100%;
+  display: flex;
+  background-color: white;
+  align-items: center;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: gray;
+}
+
+.livechattitle h3 {
+  width: 45%;
+  padding-left: 5%;
+  font-size: 95%;
+}
+
+.livechattitle button {
+  width: 35%;
+  height: 20px;
+  margin-left: 10%;
+  margin-right: 5%;
+  border: none;
+  border-radius: 5px;
+  background-color: rgba(128, 128, 128, 0.211);
+  color: rgba(0, 0, 0, 0.452);
+}
+
+.livechattitle button:hover {
+  background-color: rgba(128, 128, 128, 0.815);
+}
+
+.livechatmess {
+  width: 80%;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: right;
+}
+
+.livechatmess span {
+  background-color: rgb(59, 174, 231);
+  color: rgba(255, 255, 255, 0.788);
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 7px;
+}
+
+.livechatshow {
+  max-width: 3%;
+  position: fixed;
+  top: 650px;
+  left: 97%;
+  background-color: rgb(255, 254, 254);
+  overflow: hidden;
+  border-radius: 20px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: rgba(128, 128, 128, 0.373);
+  box-shadow: 1px 1px 20px 0px;
+}
+
+.livechatshow img {
+  width: 100%;
+}
+
+.comment img {
+  width: 10%;
+  border-radius: 10px;
+}

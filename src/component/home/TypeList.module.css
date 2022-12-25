@@ -1,0 +1,48 @@
+.type {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.type h2 {
+  font-weight: 600;
+  margin-top: 5px;
+}
+
+.type h4 {
+  font-weight: 500;
+  color: gray;
+  margin-bottom: 5px;
+}
+.div1 {
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto auto;
+  user-select: none;
+  overflow: hidden;
+  padding-bottom: 15px;
+}
+
+.div1 img {
+  width: 95%;
+}
+
+.div2 {
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  user-select: none;
+  overflow: hidden;
+  padding-top: 15px;
+}
+
+.div2 img {
+  width: 90%;
+  padding: 10px;
+}
+
+.type img:hover {
+  opacity: 0.5;
+}

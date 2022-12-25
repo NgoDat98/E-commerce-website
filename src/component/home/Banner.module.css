@@ -1,0 +1,40 @@
+.banner {
+  width: 80%;
+  height: 300px;
+  background-image: url("../../../public/banner1.jpg");
+  background-size: cover;
+  padding-left: 100px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.banner h4 {
+  font-weight: 100;
+  color: gray;
+}
+
+.banner h1 {
+  width: 30%;
+  font-size: 300%;
+  font-weight: 500;
+}
+
+.banner button {
+  font-size: large;
+  padding: 10px 30px;
+  background-color: rgba(0, 0, 0, 0.727);
+}
+.banner button:hover {
+  background-color: gray;
+  border-color: gray;
+}
+.banner button:active {
+  background-color: rgba(0, 0, 0, 0.727);
+}
+
+.banner a {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.77);
+}

@@ -1,0 +1,36 @@
+.formbulling {
+  width: 65%;
+  font-style: italic;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.formbulling h5 {
+  font-weight: 300;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  font-size: 120%;
+}
+
+.formbulling input {
+  width: 95%;
+  height: 35px;
+  margin-bottom: 20px;
+}
+
+.formbulling button {
+  width: 20%;
+  height: 35px;
+  margin-top: 10px;
+  background-color: rgba(0, 0, 0, 0.848);
+  color: white;
+  font-size: larger;
+}
+
+.formbulling button:hover {
+  background-color: rgba(0, 0, 0, 0.653);
+}
+
+.formbulling button:active {
+  background-color: rgba(0, 0, 0, 0.848);
+}

@@ -1,0 +1,72 @@
+.show {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  margin-bottom: 50px;
+  margin-top: 100px;
+  font-style: italic;
+}
+
+.show1 {
+  width: 15%;
+}
+.show1 img {
+  width: 100%;
+}
+
+.show2 {
+  width: 35%;
+}
+.show2 img {
+  width: 100%;
+  height: 100%;
+}
+.show3 {
+  width: 50%;
+}
+
+.show3 h2 {
+  font-size: 250%;
+  font-weight: 500;
+}
+
+.show3 h4 {
+  font-size: 130%;
+  font-weight: 400;
+  color: rgba(128, 128, 128, 0.886);
+}
+
+.show3 p {
+  font-size: 95%;
+  color: rgba(128, 128, 128, 0.886);
+}
+
+.show3 h5 {
+  font-weight: 500;
+}
+
+.show3 span {
+  font-weight: 400;
+  color: rgba(128, 128, 128, 0.886);
+  padding-left: 5px;
+}
+
+.show3 input {
+  height: 25px;
+  border-color: gray;
+  border-inline-start-color: rgba(128, 128, 128, 0.886);
+}
+
+.show3 button {
+  height: 30px;
+  background-color: rgba(0, 0, 0, 0.796);
+  color: white;
+}
+
+.show3 button:hover {
+  background-color: rgba(0, 0, 0, 0.389);
+}
+.show3 button:active {
+  background-color: rgba(0, 0, 0, 0.796);
+}

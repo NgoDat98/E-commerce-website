@@ -1,0 +1,44 @@
+.items {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+}
+
+.items ul {
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  user-select: none;
+  overflow: hidden;
+  list-style: none;
+  text-align: center;
+}
+
+.items img {
+  width: 100%;
+}
+
+.items h2 {
+  font-weight: 450;
+  margin-top: 5px;
+}
+
+.items h3 {
+  font-weight: 200;
+  color: gray;
+  margin-bottom: 0;
+}
+
+.items h4 {
+  font-size: 90%;
+  font-weight: 600;
+}
+
+.items p {
+  color: rgba(128, 128, 128, 0.704);
+}
+
+.items img:hover {
+  opacity: 0.5;
+}

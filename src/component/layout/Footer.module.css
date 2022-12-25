@@ -1,0 +1,26 @@
+.footer {
+  width: 80%;
+  display: grid;
+  padding-right: 10%;
+  padding-left: 10%;
+  grid-template-columns: auto auto auto;
+  user-select: none;
+  overflow: hidden;
+  text-align: center;
+  background-color: black;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.footer ul {
+  list-style: none;
+  padding-left: 0px;
+}
+.footer h2 {
+  color: white;
+  font-weight: 550;
+}
+
+.footer li {
+  color: rgba(185, 177, 177, 0.762);
+}

@@ -1,0 +1,48 @@
+.related {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+}
+
+.related h1 {
+  font-weight: 450;
+  font-style: italic;
+}
+
+.related ul {
+  width: 100%;
+  display: flex;
+  user-select: none;
+  overflow: hidden;
+  list-style: none;
+  text-align: center;
+}
+
+.related img {
+  width: 200px;
+}
+
+.related h2 {
+  font-weight: 450;
+  margin-top: 5px;
+}
+
+.related h3 {
+  font-weight: 200;
+  color: gray;
+  margin-bottom: 0;
+}
+
+.related h4 {
+  font-size: 90%;
+  font-weight: 600;
+}
+
+.related p {
+  color: rgba(128, 128, 128, 0.704);
+}
+
+.related img:hover {
+  opacity: 0.5;
+}
